@@ -1,0 +1,8 @@
+flask
+requests
+flask-socketio
+simple-websocket
+pyaudio
+cryptography
+pydub
+pypqc
